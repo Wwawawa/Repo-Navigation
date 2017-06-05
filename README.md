@@ -13,7 +13,7 @@
 #### 3--ng2-fundamentals
 * [ng2-fundamentals](https://github.com/Wwawawa/ng2-fundamentals)
 * [angular2-fundamentals-files](https://github.com/Wwawawa/angular2-fundamentals-files)
-* [angular2-fundamentals-Completing](https://github.com/Wwawawa/angular2-fundamentals-Completing)
+* [angular2-fundamentals-JIT](https://github.com/Wwawawa/angular2-fundamentals-Completing)
 * [angular2-fundamental-exercise](https://github.com/Wwawawa/angular2-fundamental-exercise)
 * [ng2f-server](https://github.com/Wwawawa/ng2f-server)
 * [ng2f-bootstrap](https://github.com/Wwawawa/ng2f-bootstrap)
