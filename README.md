@@ -25,3 +25,4 @@
 * [OAuth2OIDCAngularASPNET_Course](https://github.com/Wwawawa/OAuth2OIDCAngularASPNET_Course)
 * [OAuth2OIDCAngularASPNET_Course_Complete](https://github.com/Wwawawa/OAuth2OIDCAngularASPNET_Course_Complete)
 #### 6--[nodejs-socketio-chat](https://github.com/Wwawawa/nodejs-socketio-chat)
+#### 7--[Selenium Framework](https://github.com/Wwawawa/CucumberJVMExamples)
