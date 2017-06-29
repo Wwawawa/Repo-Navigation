@@ -29,4 +29,5 @@
 #### 8--Identity And Access Control
 * [iac-aspnet](https://github.com/Wwawawa/iac-aspnet)
 * [Thinktecture.IdentityModel](https://github.com/Wwawawa/Thinktecture.IdentityModel)
+* [Thinktecture.IdentityModel.45](https://github.com/Wwawawa/Thinktecture.IdentityModel.45)
 * [IdentityServerWithWindowsAuthWSFed](https://github.com/Wwawawa/IdentityServerWithWindowsAuthWSFed)
